@@ -1,5 +1,5 @@
 ### What's the craic 👋
-## 🎓 3rd year Comp Sci student @ Bangor University 🐉
+## 🎓 1st Computer Science BSc at Bangor University
 
 <!--
 **maxpxtts/maxpxtts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
