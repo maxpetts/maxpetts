@@ -1,5 +1,10 @@
 ### What's the craic 👋
-## 🎓 1st Computer Science BSc at Bangor University
+## 🎓 Computer Science Postgrad - 1st
+
+
+
+You're the ![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg) visitor
+
 
 <!--
 **maxpxtts/maxpxtts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
