@@ -3,7 +3,9 @@
 
 
 
-```![Visitor Count](https://profile-counter.glitch.me/maxpxtts/count.svg)```
+```
+![Visitor Count](https://profile-counter.glitch.me/{maxpxtts}/count.svg)
+```
 
 
 <!--
