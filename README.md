@@ -3,6 +3,9 @@
   
  ### 🎓 Computer Science Postgrad - 1st
   
+  ![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
+  
 ![Visitor Count](https://profile-counter.glitch.me/{maxpxtts}/count.svg)
   
 </div>
