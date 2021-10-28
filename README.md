@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/4vvwVMHk9oZck/giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/U7bH9z0QRiV8X52Elx/giphy.gif" width="100">
   
-  <h3> 🎓 Computer Science Postgrad - 1st</h3>
+ ### 🎓 Computer Science Postgrad - 1st
   
 ![Visitor Count](https://profile-counter.glitch.me/{maxpxtts}/count.svg)
   
