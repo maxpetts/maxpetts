@@ -3,7 +3,7 @@
   
  ### 🎓 Computer Science Postgrad - 1st
   
-  ![Metrics](https://github.com/my-github-user/maxpxtts/blob/main/github-metrics.svg)
+  ![Metrics](https://github.com/maxpxtts/maxpxtts/blob/main/github-metrics.svg)
 
   
 ![Visitor Count](https://profile-counter.glitch.me/{maxpxtts}/count.svg)
