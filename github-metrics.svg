@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="583" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" class="">
     <defs>
         <style/>
     </defs>
@@ -1061,7 +1061,7 @@
                                         <span>starred Oct 02 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Build secure-by-design applications that can Trust Data-in-Motion. Orchestrate end-to-end encryption, mutual authentication, key management, credential management &amp; authorization policy enforcement — at scale.</div>
+                                <div class="field description">Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. Use Ockam to build secure-by-design applications that can Trust Data-in-Motion.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
